@@ -1,1 +1,3 @@
 User-agent: *
+Allow: /
+Sitemap: https://kaduo.github.io/psycho/sitemap.xml
