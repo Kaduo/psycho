@@ -23,4 +23,4 @@ Durée passation : 30 minutes
 
 Durée restitution : 1h
 
-Tarif test seul : 80€
+Tarif test seul : 110€
