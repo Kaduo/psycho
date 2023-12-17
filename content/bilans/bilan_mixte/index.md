@@ -3,22 +3,14 @@ title = 'Bilan mixte : cognitif et de personnalité'
 date = 2023-11-26T14:13:11+01:00
 +++
 
+Enfants/Adolescents et Adultes
 
-Le bilan cognitif permet de comprendre le fonctionnement intellectuel et cérébral d’une personne en mettant en lumière ses ressources, troubles et difficultés cognitives. 
-Le bilan de personnalité permet d'identifier le fonctionnement socio-affectif du sujet et de déceler éventuellement des troubles qui perturbent son comportement. 
+Le [bilan cognitif]({{< ref "/bilans/bilan_cognitif" >}} "Bilan cognitif") permet de comprendre le fonctionnement intellectuel et cérébral d’une personne en mettant en lumière ses ressources, troubles et difficultés cognitives. 
+Le [bilan de personnalité]({{< ref "/bilans/bilan_personnalité" >}} "Bilan personnalité")  permet d'identifier le fonctionnement socio-affectif du sujet et de déceler éventuellement des troubles qui perturbent son comportement. 
 Il met aussi en lumière les forces et ressources de la personnalité.
-Ces bilans sont menés à partir de tests qui ont été validés, normés et étalonnés par des chercheurs.
 
+Le bilan mixte permet d'avoir les deux approches. Il est mené à partir de tests qui ont été validés, normés et étalonnés par des chercheurs.
 
-## Quand prévoir un bilan cognitif ?
-
-Un bilan peut être demandé ou indiqué dans diverses situations :
-
-Chez l’enfant et l’adolescent, face à des difficultés scolaires, des troubles des apprentissages, comportementaux ou encore une suspicion de précocité intellectuelle.
-
-Chez l’adulte, face à des difficultés rencontrées dans la vie quotidienne, devant un déclin progressif lié au vieillissement ou après un accident. Un bilan peut également être réalisé lorsqu’une personne est simplement désireuse d’en savoir plus sur son fonctionnement intellectuel (QI) ou sur ses forces et faiblesses cognitives.
-
-J'ai à coeur d'axer ma pratique sur l'exploration des ressources afin de favoriser la prise de conscience de ces ressources et la confiance en soi.
 
 ## Comment se déroule le bilan ?
 
@@ -32,8 +24,7 @@ Eventuellement la passation d'un test spécifique à un domaine particulier (att
 
 Un entretien de restitution (45 minutes) durant lequel vous est remis un compte rendu écrit du bilan et vous expose oralement les résultats, les pistes de soin ainsi que les orientations possibles (scolaires, professionnelles et/ou vers d’autres spécialistes de santé si nécessaire).
 
-
-Tests utilisés : 
+Important : Pour la restitution, il faut prévoir 3 à 8 semaines selon la complexité du bilan. 
 
 Test cognitif :
 [WAIS Echelle de perception et d'intelligence de Weshler]({{< ref "/tests/wais" >}} "Wais")
@@ -42,9 +33,8 @@ Test projectif de personnalité :
 ["TAT Test de perception thématique"]({{< ref "/tests/tat" >}} "TAT")
 
 Questionnaire de personnalité : 
-["MMPI MMPI Inventaire multiphasique de personnalité"]({{< ref "/tests/mmpi" >}} "MMPI") OU
+["MMPI MMPI Inventaire multiphasique de personnalité"]({{< ref "/tests/mmpi" >}} "MMPI") ou
 OU ["Golden Personality Profiler™ Inventaire Typologique de Développement"]({{< ref "/tests/golden" >}} "GOLDEN") selon le profil.
-
 
 Durée premier entretien : 45 minutes
 

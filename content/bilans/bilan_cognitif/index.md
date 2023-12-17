@@ -3,12 +3,12 @@ title = 'Bilan cognitif pour enfant et adulte'
 date = 2023-11-26T14:13:11+01:00
 +++
 
+Enfants/Adolescents et Adultes
 
 Le bilan cognitif permet de comprendre le fonctionnement intellectuel et cérébral d’une personne en mettant en lumière ses ressources, troubles et difficultés cognitives. Il est mené à partir de tests qui ont été validés, normés et étalonnés par des chercheurs.
 
 
 ## Quand prévoir un bilan cognitif ?
-
 
 Un bilan peut être demandé ou indiqué dans diverses situations :
 
@@ -30,6 +30,7 @@ Eventuellement la passation d'un test spécifique à un domaine particulier (att
 
 Un entretien de restitution (45 minutes) durant lequel vous est remis un compte rendu écrit du bilan et vous expose oralement les résultats, les pistes de soin ainsi que les orientations possibles (scolaires, professionnelles et/ou vers d’autres spécialistes de santé si nécessaire).
 
+Important : Pour la restitution, il faut prévoir 3 à 8 semaines selon la complexité du bilan. 
 
 Test cognitif utilisé : [WAIS - Weshler Apperception Test]({{< ref "/tests/wais" >}} "Wais")
 
