@@ -22,4 +22,4 @@ Durée passation : 35 minutes
 
 Durée restitution : 1h
 
-Tarif global : 120€
+Tarif test seul : 80€

@@ -1,5 +1,5 @@
 +++
-title = "Golden Personality Profiler™ - Inventaire Typologique de Développement "
+title = "Golden Personality Profiler™ Inventaire Typologique de Développement"
 date = 2023-11-26T14:13:11+01:00
 +++
 
