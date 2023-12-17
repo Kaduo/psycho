@@ -30,6 +30,17 @@ Eventuellement la passation d'un test spécifique à un domaine particulier (att
 
 Un entretien de restitution (45 minutes) durant lequel vous est remis un compte rendu écrit du bilan et vous expose oralement les résultats, les pistes de soin ainsi que les orientations possibles (scolaires, professionnelles et/ou vers d’autres spécialistes de santé si nécessaire).
 
+
+Test cognitif utilisé : [WAIS - Weshler Apperception Test]({{< ref "/tests/wais" >}} "Wais")
+
+Durée premier entretien : 45 minutes
+
+Durée passation : entre 2h30 et 3h30
+
+Durée restitution : 1h
+
+Tarif global : 240€
+
         
 
 

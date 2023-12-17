@@ -11,5 +11,5 @@ Un bilan typique se déroule en 3 étapes. Le premier entretien est dédié à b
 
 J'ai à coeur d'axer ma pratique sur l'exploration des ressources.
 
-Merci de me joindre par téléphone au **06 65 34 00 73** ou par mail à l'adresse **marine.deletangbap@gmail.com**
+Merci de me joindre par téléphone au **06 65 34 00 73** ou par mail à l'adresse **m.bap.psychologue@gmail.com**
 
