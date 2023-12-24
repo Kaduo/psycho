@@ -11,13 +11,13 @@ Un bilan peut être demandé ou indiqué dans diverses situations :
 
 Chez l’adolescent ou l'adulte, face à des questionnements, des doutes concernant l'avenir, une incapacité à se projeter ou une perte de confiance en soi.
 
-Le bilan prend en compte à la fois votre personnalité globale, vos compétences et intérêts.
+Le bilan prend en compte à la fois votre personnalité globale, vos compétences et intérêts. Il donne un aperçu général de votre personnalité et de vos préférences professionnelles.
 
-Le test d'orientation professionnelle donne un aperçu général de votre personnalité et de vos préférences professionnelles. 
+Les tests utilisés : 
 
-Le test Golden vous permet dans un premier temps de sonder vos traits de personnalité pour mieux vous connaitre. Administré dans le monde entier par des professionnels de tous secteurs d’activité, le Golden® est l'évaluation de la personnalité la plus approfondie qui soit. 
+- Le test Golden vous permet dans un premier temps de sonder vos traits de personnalité pour mieux vous connaitre. Administré dans le monde entier par des professionnels de tous secteurs d’activité, le Golden® est l'évaluation de la personnalité la plus approfondie qui soit. 
 
-Le second test permet de cerner vos intérêts et tendances professionnelles. En fonction de vos préférences, vous apprendrez quels types d'environnement de travail et de profession vous conviennent le mieux. Le test est simplement conçu pour mesurer vos préférences, il n'y a donc pas de bonnes ou de mauvaises réponses. Les résultats du test de carrière vous fourniront une liste de professions et de métiers qui correspondent à votre personnalité professionnelle.
+- Le second test permet de cerner vos intérêts et tendances professionnelles. En fonction de vos préférences, vous apprendrez quels types d'environnement de travail et de profession vous conviennent le mieux. Le test est simplement conçu pour mesurer vos préférences, il n'y a donc pas de bonnes ou de mauvaises réponses. Les résultats du test de carrière vous fourniront une liste de professions et de métiers qui correspondent à votre personnalité professionnelle.
 
 J'ai à coeur d'axer ma pratique sur l'exploration et le développement des ressources pour vous aider à vous épanouir.
 

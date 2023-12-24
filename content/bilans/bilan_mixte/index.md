@@ -9,7 +9,7 @@ Le [bilan cognitif]({{< ref "/bilans/bilan_cognitif" >}} "Bilan cognitif") perme
 Le [bilan de personnalité]({{< ref "/bilans/bilan_personnalité" >}} "Bilan personnalité")  permet d'identifier le fonctionnement socio-affectif du sujet et de déceler éventuellement des troubles qui perturbent son comportement. 
 Il met aussi en lumière les forces et ressources de la personnalité.
 
-Le bilan mixte permet d'avoir les deux approches. Il est mené à partir de tests qui ont été validés, normés et étalonnés par des chercheurs.
+Le bilan mixte permet d'avoir les deux approches afin d'avoir une approche à 360°. Il est mené à partir de tests qui ont été validés, normés et étalonnés par des chercheurs.
 
 
 ## Comment se déroule le bilan ?
@@ -33,8 +33,7 @@ Test projectif de personnalité :
 ["TAT Test de perception thématique"]({{< ref "/tests/tat" >}} "TAT")
 
 Questionnaire de personnalité : 
-["MMPI MMPI Inventaire multiphasique de personnalité"]({{< ref "/tests/mmpi" >}} "MMPI") ou
-OU ["Golden Personality Profiler™ Inventaire Typologique de Développement"]({{< ref "/tests/golden" >}} "GOLDEN") selon le profil.
+["MMPI MMPI Inventaire multiphasique de personnalité"]({{< ref "/tests/mmpi" >}} "MMPI") ou ["Golden Personality Profiler™ Inventaire Typologique de Développement"]({{< ref "/tests/golden" >}} "GOLDEN") selon le profil.
 
 Durée premier entretien : 45 minutes
 
