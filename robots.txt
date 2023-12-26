@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://kaduo.github.io/psycho/sitemap.xml
+Sitemap: https://www.marine-bap-psychologue.com/sitemap.xml
