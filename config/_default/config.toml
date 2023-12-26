@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://kaduo.github.io/psycho/"
+baseURL = "https://www.marine-bap-psychologue.com"
 defaultContentLanguage = "fr"
 langageCode = "fr"
 
