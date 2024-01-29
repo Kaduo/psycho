@@ -20,7 +20,7 @@ J'ai à coeur d'axer ma pratique sur l'exploration des ressources afin de favori
 
 ## Comment se déroule le bilan ?
 
-Une première consultation (45 minutes / 1 heure) visant à comprendre les motifs et l’origine de la demande. Il permet d’orienter au mieux et de façon pertinente le bilan. Je recuueille des éléments sur votre histoire de vie, votre parcours (scolaire et/ou professionnel) ainsi que sur les difficultés rencontrées au quotidien.
+Une première consultation (45 minutes / 1 heure) visant à comprendre les motifs et l’origine de la demande. Il permet d’orienter au mieux et de façon pertinente le bilan. Je recueille des éléments sur votre histoire de vie, votre parcours (scolaire et/ou professionnel) ainsi que sur les difficultés rencontrées au quotidien.
 
 La passation des tests (à partir de 2 heures) appropriés à la demande initiale et aux difficultés soulevées durant l’entretien. Dès lors, il m’est possible de vous proposer :
 
