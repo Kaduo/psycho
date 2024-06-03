@@ -16,7 +16,7 @@ title = "Marine Bap"
 [author]
   name = "Marine Bap"
   image = "marine.png"
-  headline = "Ajaccio - Cours Napoléon"
+  headline = "Ajaccio - Fred Scamaroni"
    bio = "A little bit about you"
    links = [
     { email = "mailto:marine.deletangbap@gmail.com" },
